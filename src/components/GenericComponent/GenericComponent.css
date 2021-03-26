@@ -1,0 +1,15 @@
+.wrapper-component {
+  position: relative;
+}
+
+.generic-component {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: red;
+  padding: 1rem;
+}
+
+.generic-component.hidden {
+  display: none;
+}

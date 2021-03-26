@@ -1,0 +1,26 @@
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mg-t-50 {
+  margin-top: 50px;
+}
+
+.table {
+  /* width: 100%; */
+  /* margin: 1000px; */
+  border: 1px solid red;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid red;
+  padding: 10px;
+}
+
+.filter-input {
+  margin: 20px;
+}
